@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>[INVULLEN-DOMENE]/</loc></url><url><loc>[INVULLEN-DOMENE]/en/</loc></url><url><loc>[INVULLEN-DOMENE]/personvern/</loc></url><url><loc>[INVULLEN-DOMENE]/en/privacy/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jiujitsunordfjord.no/</loc>
+    </url>
+    <url>
+        <loc>https://jiujitsunordfjord.no/en/</loc>
+    </url>
+    <url>
+        <loc>https://jiujitsunordfjord.no/personvern/</loc>
+    </url>
+    <url>
+        <loc>https://jiujitsunordfjord.no/en/privacy/</loc>
+    </url>
+</urlset>
