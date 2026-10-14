@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: [INVULLEN-DOMENE]/sitemap.xml
+Sitemap: https://jiujitsunordfjord.no/sitemap.xml

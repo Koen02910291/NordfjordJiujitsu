@@ -1,1 +1,9 @@
-{"name":"Jiu-Jitsu Nordfjord","short_name":"Jiu-Jitsu","start_url":"./","display":"standalone","background_color":"#f8f5ef","theme_color":"#8c4a2f","icons":[]}
+{
+    "name": "Jiu-Jitsu Nordfjord",
+    "short_name": "Jiu-Jitsu",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#f8f5ef",
+    "theme_color": "#8c4a2f",
+    "icons": []
+}
