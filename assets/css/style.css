@@ -127,7 +127,7 @@ img {
     place-items: center;
     text-align: center;
     padding: 5rem 1rem;
-    background: linear-gradient(rgba(248, 245, 239, .78), rgba(248, 245, 239, .94)), url('../images/logo.jpg') center/460px no-repeat
+    background: linear-gradient(rgba(248, 245, 239, .78), rgba(248, 245, 239, .94)), url('../images/logo.png') center/460px no-repeat
 }
 
 .hero h1 {
